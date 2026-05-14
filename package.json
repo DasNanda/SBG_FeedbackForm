@@ -1,8 +1,8 @@
 {
-	"name": "com.starbannergames.MYPACKAGE",
+	"name": "com.starbannergames.feedbackfrom",
 	"version": "1.0.0",
-	"displayName": "SBG MYPACKAGE",
-	"description": "MY DESCRIPTION",
+	"displayName": "SBG Feedback Form",
+	"description": "Helper to send player feedback to a google form",
 	"unity": "6000.0",
 	"author": {
 		"name": "Star Banner Games",
